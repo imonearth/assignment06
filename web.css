@@ -1,0 +1,89 @@
+/*Lex Williams, 9/30/2024*/
+header {background-image: url(logo.png);
+background-repeat: no-repeat;
+background-color: #29485d;
+background-position: right;
+height: 60px;
+text-align: center;
+padding-top: 15px;
+}
+
+
+body {background-color: #0194b5; 
+    background-image: linear-gradient(to bottom,#FFFFFF, #0194b5);
+    background-repeat: no-repeat;
+color: #555555;
+font-family: arial, helvetica, sans-serif;
+}
+
+
+#wrapper { margin:0 auto; 
+    width: 80%;
+    background-color: #FFFFFF;
+    min-width: 960px;
+    max-width: 2048px;
+    box-shadow: 3px 3px 3px #333333;
+}
+
+h1 { 
+margin-top: 0;
+margin-bottom:0;
+color: #FFFFFF;
+font-family: georgia, "times new roman", serif;
+ }
+
+nav {background-color: #FFFFFF; 
+    font-weight: bold; 
+    text-align: center;
+    padding: 1em;
+}
+nav a {text-decoration: none;
+}
+#trackshero {height:400px;
+    background-image: url(trackshero.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#homehero {height: 400px;
+    background-image: url(homehero.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+}
+#facultyhero {height: 400px;
+    background-image:url(facultyhero.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat}
+
+main {padding-top: 1px ;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    display: block;
+}
+
+h2 {color: #407386;
+font-family: georgia, "times new roman", serif;
+text-shadow: 1px, #CCCCCC;
+}
+h3 { font-family: georgia, "times new roman", serif; 
+color: #29485d;
+}
+
+dt {color: #0194B5;
+}
+ul {list-style-image: url(marker.gif);
+}
+li { line-height: 1.5;
+}
+.web {color: #0194B5;
+font-style: bold;
+}
+footer { font-size: 75%; 
+    font-style: italic; 
+    text-align: center; 
+    font-family: georgia, "times new roman", serif; 
+    padding: 2em;
+}
+
+#contact { font-size: 90%;
+}
